@@ -40,4 +40,4 @@ Ben's Software:
 - [Archive Team Warrior](https://en.wikipedia.org/wiki/Archive_Team)
 
 # Future Plans
-Grab a Lenovo ThinkCentre and install Proxmox on it. Use proxmox to host immich and test VMs. Immich will back up to unRaid Array.
+Grab a Lenovo ThinkCentre and install Proxmox on it. Use proxmox to host immich and test VMs. Immich will back up to unRaid Array. I will be naming that one [MiniBot](https://github.com/g-i-n-g-y/MiniBot). As these devices are know for their power efficencies it's a fitting name.
