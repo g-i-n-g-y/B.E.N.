@@ -16,4 +16,6 @@ Parity: 20TB Seagate Exos X20
 Main Array: 4TB WD Red | 20TB Seagate Exos X20 
 Cache: 2TB WD Black NVME
 
-# 🔋 UPS: APC UPS 1500VA Battery Backup Surge Protector | Currently set to power for two minutes before safetly shutting system down.
+# 🔋 UPS: 
+APC UPS 1500VA Battery Backup Surge Protector 
+- Currently set to power for two minutes before safetly shutting system down.
