@@ -5,17 +5,39 @@ B.E.N. is the name of my server. I named it after the robot in the movie Treasur
 
 # 💻 Hardware
 Ben's Specs:
+
+Node 804
+
 i7 9700
+
 MSI Motherboard
+
 16GB DDR4 RAM
+
 1070FTW 
+
 750W EVGA Gold PSU
 
 # 💾 Storage:
 Parity: 20TB Seagate Exos X20   
+
 Main Array: 4TB WD Red | 20TB Seagate Exos X20 
+
 Cache: 2TB WD Black NVME
 
 # 🔋 UPS: 
 APC UPS 1500VA Battery Backup Surge Protector 
+
 - Currently set to power for two minutes before safetly shutting system down.
+
+# 📎Software 
+
+
+Ben's Software:
+
+unRaid
+- Jellyfin 
+- [Archive Team Warrior](https://en.wikipedia.org/wiki/Archive_Team)
+
+# Future Plans
+Grab a Lenovo ThinkCentre and install Proxmox on it. Use proxmox to host immich and test VMs. Immich will back up to unRaid Array.
