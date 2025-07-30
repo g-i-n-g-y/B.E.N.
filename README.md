@@ -36,7 +36,7 @@ APC UPS 1500VA Battery Backup Surge Protector
 Ben's Software:
 
 **unRaid**
-- Jellyfin 
+- [binhex's Jellyfin](https://github.com/binhex/arch-jellyfin)
 - [Archive Team Warrior](https://en.wikipedia.org/wiki/Archive_Team)
 
 # Future Plans
