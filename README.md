@@ -19,14 +19,14 @@ MSI Motherboard
 750W EVGA Gold PSU
 
 # 💾 Storage:
-Parity: 20TB Seagate Exos X20   
+Parity: 26TB Seagate Exos (refurb GoHardDrive) (testing for stability then building parity)  
 
-Main Array: 4TB WD Red | 20TB Seagate Exos X20 
+Main Array: 4TB WD Red (new) | 20TB Seagate Exos X20 (refurb GoHardDrive) | 20TB Seagate Exos X20 (refurb ServerPartDeals) (soon after RMA)
 
-Cache: 2TB WD Black NVME
+Cache: 2TB WD Black NVME (new)
 
 # 🔋 UPS: 
-APC UPS 1500VA Battery Backup Surge Protector 
+APC UPS 1500VA Battery Backup Surge Protector (refurb from RefurbUPS)
 
 - Currently set to power for two minutes before safetly shutting system down.
 
