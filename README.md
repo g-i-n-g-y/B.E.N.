@@ -17,15 +17,22 @@ homelab est. 2025
 
 The UPS talks to Unraid over USB and shuts BEN down safely after 2 minutes on battery.
 
-## 💾 Storage (~44TB usable)
+## 💾 Storage (~44TB usable when all drives are in service)
 
-| Role | Drive |
-|---|---|
-| Parity | 26TB Seagate Exos (refurb) |
-| Array | 20TB Seagate Exos X20 (refurb) |
-| Array | 20TB Seagate Exos X20 (refurb) |
-| Array | 4TB WD Red |
-| Cache | 2TB WD Black NVMe |
+| Role | Drive | Status |
+|---|---|---|
+| Parity | 26TB Seagate Exos (refurb) | ✅ In service |
+| Disk 1 | 4TB WD Red | ✅ In service |
+| Disk 2 | 20TB Seagate Exos X20 (refurb) | ✅ In service (holds Disk 3's data) |
+| Disk 3 | 20TB Seagate Exos (recertified) | ⚠️ Out of service, RMA in progress ([#1](../../issues/1)) |
+| Cache | 2TB WD Black NVMe | ✅ In service |
+
+## 🛠️ Problems Solved
+
+Hardware failures, RMAs, and fixes are tracked as GitHub issues with the `hardware` label.
+
+- [Open hardware issues](../../issues?q=label%3Ahardware+is%3Aopen)
+- [Solved hardware issues](../../issues?q=label%3Ahardware+is%3Aclosed)
 
 ## 📎 Software
 
